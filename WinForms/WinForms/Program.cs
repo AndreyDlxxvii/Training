@@ -10,7 +10,7 @@ namespace WinForms
     {
         static void Main(string[] args)
         {
-            //hello world
+            //hello worldфыв
         }
     }
 }
